@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Daeryul/MyHooks/static/css/main.e6c13ad2.css",
+    "main.js": "/Daeryul/MyHooks/static/js/main.8a1b00dc.js",
+    "static/js/787.e0fcd4fe.chunk.js": "/Daeryul/MyHooks/static/js/787.e0fcd4fe.chunk.js",
+    "index.html": "/Daeryul/MyHooks/index.html",
+    "main.e6c13ad2.css.map": "/Daeryul/MyHooks/static/css/main.e6c13ad2.css.map",
+    "main.8a1b00dc.js.map": "/Daeryul/MyHooks/static/js/main.8a1b00dc.js.map",
+    "787.e0fcd4fe.chunk.js.map": "/Daeryul/MyHooks/static/js/787.e0fcd4fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a1b00dc.js"
+  ]
+}
